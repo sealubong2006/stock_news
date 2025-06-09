@@ -10,8 +10,8 @@ COMPANY_NAME = "Tesla Inc"
 STOCK_ENDPOINT = "https://www.alphavantage.co/query"
 NEWS_ENDPOINT = "https://newsapi.org/v2/everything"
 
-STOCK_API_KEY = "G6Y97OGXKTHW5YAI"  # Alpha Vantage API Key
-NEWS_API_KEY = "c7a09f373cd64b4bbf0b5f39cfe2d992"  # News API Key
+STOCK_API_KEY = ""  # Alpha Vantage API Key
+NEWS_API_KEY = ""  # News API Key
 
 # ----------------- STEP 1: GET STOCK DATA -------------------
 stock_api_parameters = {
